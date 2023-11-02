@@ -189,7 +189,7 @@ html, body{
 #onespan{
     width: 65px;
     height: 40px;
-    background-image: url(bluegirl.jpg);
+    background-image: url(bluegirl.webp);
     background-size: cover;
     background-position: 0% 60%;
 }
@@ -197,7 +197,7 @@ html, body{
 #twospan{
     width: 90px;
     height: 40px;
-    background-image: url(shaljam.jpg);
+    background-image: url(shaljam.webp);
     background-size: cover;
     background-position: center;
 }
@@ -205,7 +205,7 @@ html, body{
 #threespan{
     width: 65px;
     height: 40px;
-    background-image: url(grass.jpg);
+    background-image: url(grass.webp);
     background-size: cover;
     background-position: center;
 }
